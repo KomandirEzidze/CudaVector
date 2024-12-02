@@ -1,4 +1,6 @@
-﻿#include "cuda_runtime.h"
+﻿// Artem Fomin
+
+#include "cuda_runtime.h"
 #include <stdio.h>
 #include <malloc.h>
 #include <stdlib.h>
