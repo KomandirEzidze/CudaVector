@@ -1,4 +1,5 @@
 ﻿// Artem Fomin
+// Version 1.0
 
 #include "cuda_runtime.h"
 #include <stdio.h>
